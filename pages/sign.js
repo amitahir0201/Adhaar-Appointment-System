@@ -76,7 +76,6 @@ export default function RegisterPage() {
                <UserPlus className="text-white w-6 h-6" />
             </div>
             <h2 className="text-3xl font-bold text-white tracking-tight">Create Account</h2>
-            <p className="text-blue-100 mt-2 text-sm">Join the Darshan Portal today</p>
           </div>
 
           <div className="p-8">
